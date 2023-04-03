@@ -14,6 +14,7 @@ public class Main {
         note.add(10.0);
         Persoana persoana = new Student(20, "Stefan-Lucian Done", note);
 
+        System.out.println("Diferenta fata de primul commit");
         System.out.println(persoana);
     }
 }
